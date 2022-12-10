@@ -1,3 +1,6 @@
+<h1>Built a random quote generator app using react, quote API with clean UI🚀🚀</h1>
+<h2>https://random-quote-generator-csfahad.vercel.app/ 🚀🚀</h2>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
